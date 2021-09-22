@@ -43,7 +43,7 @@ sudo pacman -S conky
 
 Installing the Conky Theme:
 
-just copy all the files to /config/conky
+just copy all the files to /.config/conky
 
 Note: if the conky folder doesn't exist just make the folder 
 
