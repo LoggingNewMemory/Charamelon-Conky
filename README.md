@@ -2,6 +2,8 @@
 Charamelon is Conky Theme based on LinuxScoop Conky
 Youtube: https://www.youtube.com/channel/UCNnUnr4gwyNmzx_Bbzvt29g
 
+You May Modify The Files For Your Needs
+
 [Preview On Desktop]
 
 ![WhatsApp Image 2021-09-22 at 10 57 25](https://user-images.githubusercontent.com/83739103/134283553-c13762bf-0457-466d-b2cf-5791860d63bd.jpeg)
@@ -45,3 +47,4 @@ just copy all the files to /config/conky
 
 Note: if the conky folder doesn't exist just make the folder 
 
+Pardon Me For My Bad English
